@@ -18,19 +18,12 @@
 <p align="left">
 <img align="center" alt="HTML5" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png"/>
 <img align="center" alt="CSS" width="50px" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202020css3htmllogosocialsocialmedia-115668_115633.png"/>
-<img align="center" alt="bootstrap" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/>
 <img align="center" alt="JS" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png"/>
+<img align="center" alt="bootstrap" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/>
+<img align="center" alt="tailwind" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png"/>
 <img align="center" alt="angular" width="45px" src="https://houseofangular.io/wp-content/uploads/2023/11/AngularLogoGradient.png"/>
 <img align="center" alt="typescript" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"/>
 </p>
-
-<h2 align="left">Backend</h2>
-<p align="left">
-<img align="center" alt="java" width="45px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/>
-<img align="center" alt="springboot" width="45px" src="https://static-00.iconduck.com/assets.00/spring-icon-256x256-2efvkvky.png"/>
-<img align="center" alt="python" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"/>
-</p>
-
 
 <h2 align="left">Bases de datos</h2>
 <p align="left">
