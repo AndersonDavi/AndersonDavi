@@ -17,7 +17,7 @@
 <h2 align="left">Frontend</h2>
 <p align="left">
 <img align="center" alt="HTML5" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png"/>
-<img align="center" alt="CSS" width="50px" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202020css3htmllogosocialsocialmedia-115668_115633.png"/>
+<img align="center" alt="CSS" width="50px" src="https://logospng.org/download/css-3/logo-css-3-2048.png"/>
 <img align="center" alt="JS" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png"/>
 <img align="center" alt="bootstrap" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/>
 <img align="center" alt="tailwind" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png"/>
@@ -37,7 +37,6 @@
 <img align="center" alt="vs code" width="45px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png"/>
 <img align="center" alt="git" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png"/>
 <img align="center" alt="github" width="45px" src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png"/>
-<img align="center" alt="github" width="45px" src="https://blog.postman.com/wp-content/uploads/2018/04/logo-mark-300x300.png"/>
 <img align="center" alt="photohop" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png"/>
 </p>
 
