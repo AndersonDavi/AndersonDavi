@@ -16,7 +16,7 @@
 
 <h2 align="left">Contáctame:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/anderson-david-rueda-consuegra-16b32821b/"><img align="center" alt="HTML5" width="50px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"/></a>
+<a href="https://www.linkedin.com/in/anderson-david-rueda-consuegra-16b32821b/"><img align="center" alt="HTML5" width="50px" height="40" src="https://www.andersonrueda.com/linkedin.svg"/></a>
 </p>
 
 <h1 align="left">Lenguajes y herramientas:</h1>
@@ -31,10 +31,23 @@
 <img align="center" alt="typescript" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"/>
 </p>
 
+<h2 align="left">Backend</h2>
+<p align="left">
+<img align="center" alt="NodeJS" width="45px" src="https://nodejs.org/static/logos/jsIconGreen.svg"/>
+<img align="center" alt="ExpressJS" width="45px" src="https://www.andersonrueda.com/skills/express.svg"/>
+<img align="center" alt="NestJS" width="45px" src="https://www.andersonrueda.com/skills/nest.svg"/>
+</p>
+
 <h2 align="left">Bases de datos</h2>
 <p align="left">
 <img align="center" alt="sql server" width="45px" src="https://tribes.agency/wp-content/uploads/2023/10/ext-550.png"/>
 <img align="center" alt="mysql" width="45px" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png"/>
+</p>
+
+<h2 align="left">Cloud</h2>
+<p align="left">
+<img align="center" alt="aws" width="45px" src="https://www.andersonrueda.com/skills/aws.svg"/>
+<img align="center" alt="docker" width="45px" src="https://www.andersonrueda.com/skills/docker.svg"/>
 </p>
 
 <h2 align="left">Herramientas</h2>
@@ -44,6 +57,7 @@
 <img align="center" alt="git" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png"/>
 <img align="center" alt="github" width="45px" src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png"/>
 <img align="center" alt="photohop" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png"/>
+<img align="center" alt="postman" width="45px" src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg"/>
 </p>
 
 #
