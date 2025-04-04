@@ -33,7 +33,7 @@
 
 <h2 align="left">Backend</h2>
 <p align="left">
-<img align="center" alt="NodeJS" width="45px" src="https://nodejs.org/static/logos/jsIconGreen.svg"/>
+<img align="center" alt="NodeJS" width="45px" src="https://www.andersonrueda.com/skills/node.svg"/>
 <img align="center" alt="ExpressJS" width="45px" src="https://www.andersonrueda.com/skills/express.svg"/>
 <img align="center" alt="NestJS" width="45px" src="https://www.andersonrueda.com/skills/nest.svg"/>
 </p>
