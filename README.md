@@ -1,9 +1,15 @@
-<h1 align="center">Hola 👋, Soy Anderson David</h1>
+<a href="https://www.andersonrueda.com/" align="center" width="300">
+   <img align="center" width="900" src="https://andersonrueda.com/backgrounds/og-image.png" />
+   <h3 align="center">Hola 👋, Soy Anderson Rueda</h1>
+</p>
 
-**`( Desarrollador / Diseñador )`**
+
+
+**`( Desarrollador web )`**
 - 💼 Actualmente trabajo en  [Grupo Logis](https://www.linkedin.com/company/grupo-logis/mycompany/)
 - 💭 Contactame para **Diseño multimedia**, **Creación de páginas web**, **Desarrollo de software**
-- 📫 Puedes contactarme por **andesondavid17@gmail.com**
+- 📫 Puedes contactarme por **contactoandersonrueda@gmail.com**
+- 🌐 Echa un vistazo a mi portafolio en [Portafolio web](https://www.andersonrueda.com/)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andersondavi" alt="andersondavi" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andersondavi&label=Profile%20views&color=0e75b6&style=flat" alt="andersondavi" /> </p>
