@@ -1,9 +1,8 @@
-<!-- <p align="center">
+<p align="center">
   <a href="https://www.andersonrueda.com/">
     <img width="900" src="https://andersonrueda.com/backgrounds/og-image.png" alt="Anderson Rueda Banner" />
   </a>
 </p>
--->
 
 <h1 align="center">Hola, soy Anderson Rueda 👋</h1>
 
