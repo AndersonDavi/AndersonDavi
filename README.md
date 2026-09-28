@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.andersonrueda.com/">
-    <img width="900" src="https://andersonrueda.com/backgrounds/og-image.png" alt="Anderson Rueda Banner" />
+    <img width="900" src="https://andersonrueda.com/backgrounds/og-image.png?v=2" alt="Anderson Rueda Banner" />
   </a>
 </p>
 
